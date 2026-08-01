@@ -140,9 +140,6 @@ The tests cover SQL mutation rejection, profiling issues, aggregate execution, a
 6. Add a golden-task evaluation set for SQL correctness, tool selection, answer quality, and latency.
 7. Expose the tools through MCP with explicit permissions.
 
-## Suggested LinkedIn post
-
-> I built an Agentic DataOps Platform in Python: an auditable AI agent that profiles datasets, validates data quality, searches data contracts, executes read-only SQL, and exposes the workflow through FastAPI. The system runs offline with deterministic tools and supports an optional OpenAI tool-calling provider.
 
 ## License
 
